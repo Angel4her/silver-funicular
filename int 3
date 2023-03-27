@@ -1,8 +1,8 @@
 import interactions
 
 bot = interactions.Client(
-    token="your_secret_bot_token",
-    default_scope=the_id_of_your_guild,
+    token="E_769zTnPzeYlWQT6AmyPiKv2Ilo__Kc4TmPUP3dRTmmQ1GfJ3e8Ae2jx0HvG87MJ2eX",
+    default_scope=1089590270712107110,
 )
 
 @bot.command()
